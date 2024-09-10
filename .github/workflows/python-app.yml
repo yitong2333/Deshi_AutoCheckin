@@ -49,4 +49,4 @@ jobs:
 
     - name: Run the application
       run: |
-        python dsQiandao  # 替换为你要运行的 Python 文件
+        python dsQiandao.py  # 替换为你要运行的 Python 文件
